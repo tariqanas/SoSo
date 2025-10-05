@@ -1,0 +1,3 @@
+Capital final: 10283.08
+Sharpe Ratio: 0.41911778413243295
+Drawdown Max: 5.293595800370019%
